@@ -1,5 +1,4 @@
-let number =-1;
-
+const number = parseInt(prompt("Enter a number: "));
    
   if(number<0){
     console.log("negative")
